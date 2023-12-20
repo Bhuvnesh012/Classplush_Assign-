@@ -1,7 +1,6 @@
 /*
 AUTHOR: Bhuvnesh Kumar
 College:IIT JODHPUR
-Branch:EE
 LANG: C++
 */
 
